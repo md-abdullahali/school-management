@@ -1,7 +1,7 @@
-# Lama Dev School Management Dashboard
+# School Management Dashboard
 
 ## Getting Started
-
+### Md Abdullah  Ali
 First, run the development server:
 
 ```bash
